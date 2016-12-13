@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="ClassifyNow" max_length="40" name="x_unon3_classify_x_unon3_classifynow" type="collection"/>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2016-12-13 14:12:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>87e96de7db672200f21ef9a61d961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_unon3_classify_x_unon3_classifynow.x_unon3_classify.user</sys_name>
+        <sys_package display_value="ClassifyNow" source="x_unon3_classify">1ae9ad67db672200f21ef9a61d9619ad</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ClassifyNow">1ae9ad67db672200f21ef9a61d9619ad</sys_scope>
+        <sys_security_acl display_value="x_unon3_classify_x_unon3_classifynow">c7e96de7db672200f21ef9a61d961951</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_87e96de7db672200f21ef9a61d961952</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2016-12-13 14:12:48</sys_updated_on>
+        <sys_user_role display_value="x_unon3_classify.user" name="x_unon3_classify.user">12e96de7db672200f21ef9a61d96194c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
